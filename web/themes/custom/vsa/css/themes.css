@@ -1,0 +1,157 @@
+/*globally css*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #222222;
+    line-height: 100%;
+}
+
+h1 {
+    font-size: 35px;
+    line-height: 50px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+h2 {
+    font-size: 25px;
+    line-height: 36px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+h3 {
+    font-size: 21px;
+    line-height: 23px;
+    font-weight: 600;
+    margin: 0px;
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0px;
+}
+
+h5 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+h6 {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+a {
+    color: #2E4783;
+    cursor: pointer;
+}
+
+a:hover,
+a:focus {
+    color: #2E4783;
+}
+
+.nav>li>a:hover,
+.nav>li>a:focus {
+    background: none;
+}
+
+.nav>li>a {
+    line-height: 28px;
+    text-transform: inherit;
+    border: 0px;
+    border-radius: 0px;
+    background: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.prev-next--button {
+    float: right;
+    padding-top: 45px;
+}
+
+.prev-next--button .btn {
+    box-shadow: unset !important;
+}
+
+.btn-back {
+    background-image: url(../images/arrow-left-circle-fill.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    min-width: 134px !important;
+    padding-left: 26px;
+}
+
+.btn-next {
+    min-width: 170px !important;
+    min-height: 48px;
+    line-height: 40px;
+    padding: 0;
+}
+
+.btn {
+    padding: 3px 0;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 40px;
+    box-shadow: 0 3px 8px 0 rgb(0 0 0 / 16%) !important;
+}
+
+.path-frontpage .btn {
+    padding: 8px 0;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 40px;
+    min-width: 370px;
+    box-shadow: 0 3px 8px 0 rgb(0 0 0 / 16%) !important;
+}
+
+.btn.btn-back {
+    box-shadow: none !important;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:hover {
+    color: #222222;
+    background-color: #E7E247;
+    border-color: #E7E247;
+}
+
+.issue-form-wrapper,
+.answer-form-wrapper {
+    width: 100%;
+    position: relative;
+}
+
+.issue-option-show-hide-next-button,
+.answer-show-hide-next-button {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    z-index: 999;
+}
+
+.issue-option-show-hide-next-button+input+div,
+.issue-option-show-hide-next-button+input,
+.answer-show-hide-next-button+input+div,
+.answer-show-hide-next-button+input {
+    display: none;
+}
+
+.issue-option-show-hide-next-button+input:checked+div,
+.answer-show-hide-next-button+input:checked+div {
+    display: block;
+}

@@ -1,0 +1,103 @@
+.footer-top-area {
+    border-top: 3px solid #F4F4F4;
+    padding: 52px 0 90px 0;
+}
+
+ul.footer-social-link li {
+    display: inline-block;
+    text-align: center;
+    padding-right: 30px;
+}
+
+ul.footer-social-link li a {
+    background-color: #222222;
+    width: 48px;
+    height: 48px;
+    color: #fff;
+    text-align: center;
+    border-radius: 100%;
+    display: inline-block;
+    padding: 11px;
+}
+
+ul.footer-social-link {
+    padding: 0px;
+    list-style: none;
+    margin: 54px 0 0 0;
+}
+
+ul.footer-social-link li span {
+    display: none;
+}
+
+ul.footer-social-link li a {
+    background-color: #000000;
+    width: 48px;
+    height: 48px;
+    color: #fff;
+    text-align: center;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+.footer-top-right h2.block-title {
+    padding-top: 12px;
+    padding-bottom: 14px;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 28px;
+}
+
+.footer-top-right p:first-child {
+    margin: 0;
+    padding-bottom: 12px;
+}
+
+.footer-top-right {
+    margin: 0;
+}
+
+.footer-top-right p {
+    margin: 0;
+}
+
+.footer-top-right a {
+    text-decoration: underline;
+}
+
+.footer-top-right a:hover {
+    color: #2E4783;
+}
+
+.footer-top-right {
+    padding-left: 122px;
+}
+
+.footer-top-right p:first-child {
+    padding-right: 85px;
+}
+
+section.footer-bottom-area {
+    background: #302E2F;
+    color: #fff;
+    padding: 18px 0;
+}
+
+ul.menu.menu--footer li a {
+    color: #fff;
+    text-align: right;
+    padding: 0;
+    font-size: 19px;
+}
+
+section.footer-bottom-area .row {
+    display: flex;
+    align-items: center;
+}
+
+.footer-bottom-left p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: bold;
+}

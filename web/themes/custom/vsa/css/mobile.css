@@ -1,0 +1,691 @@
+    @media only screen and (min-width: 0px) and (max-width: 400px) {
+        .path-frontpage .my-self-help-overview .vedio-play {
+            padding-top: 22%;
+            padding-bottom: 28%;
+        }
+        .views-field.views-field-field-step .field-content .step::before {
+            height: 250px !important;
+        }
+        .covered-issue .view-testimonial .views-slideshow-controls-bottom.clearfix {
+            top: 80%;
+        }
+    }
+    
+    @media only screen and (min-width: 401px) and (max-width: 767px) {}
+    
+    @media only screen and (min-width: 474px) and (max-width: 767px) {
+        .covered-issue .view-testimonial .views-slideshow-controls-bottom.clearfix {
+            top: 80% !important;
+        }
+    }
+    
+    @media only screen and (min-width: 658px) and (max-width: 767px) {
+        .views-field.views-field-field-step .field-content .step::before {
+            height: 215px !important;
+        }
+    }
+    
+    @media only screen and (min-width: 600px) and (max-width: 767px) {
+        .covered-issue .view-testimonial .views-slideshow-controls-bottom.clearfix {
+            top: 80% !important;
+        }
+    }
+    
+    @media only screen and (min-width: 401px) and (max-width: 767px) {}
+    
+    @media only screen and (min-width: 0px) and (max-width: 767px) {
+        @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+        body {
+            font-size: 16px !important;
+            line-height: 22px;
+        }
+        .btn-primary,
+        .btn-primary:hover,
+        .btn-primary:active,
+        .btn-primary:focus,
+        .btn-primary:active:hover,
+        .btn-primary:active:focus {
+            color: #fff;
+            background-color: #2E4783;
+            border-color: #2E4783;
+        }
+        h1 {
+            font-size: 27px !important;
+            line-height: 39px !important;
+        }
+        h2 {
+            font-size: 19px !important;
+            line-height: 27px !important;
+        }
+        a {
+            font-size: 18px !important;
+        }
+        .btn {
+            font-size: 18px;
+            line-height: 40px;
+            min-width: 312px !important;
+            min-height: 59px;
+        }
+        .btn-primary a {
+            color: #ffffff;
+        }
+        .breadcrumb {
+            display: none;
+            padding: unset;
+        }
+        .page-header {
+            padding-top: 12px;
+            margin: 0;
+        }
+        .header {
+            background-image: none !important;
+            padding: 3px 0 9px !important;
+        }
+        .header .block {
+            padding: 0 0 5px 24px !important;
+        }
+        .header-top p {
+            line-height: 0px;
+            padding: 7px 0;
+        }
+        .header-top p a {
+            font-size: 14px !important;
+            line-height: 16px !important;
+        }
+        .header .logo img {
+            width: 140px;
+            height: 62px;
+        }
+        .header a {
+            padding-right: 18px !important;
+        }
+        .header #block-header h1 {
+            font-size: 18px !important;
+            line-height: 25px !important;
+        }
+        .header #block-header h4 {
+            font-size: 11px !important;
+            line-height: 15px !important;
+        }
+        /* my self-help-area */
+        #my-self-help {
+            padding: 16px 0px 10px;
+        }
+        .path-frontpage .my-self-help-overview {
+            padding: 26px 0 42px 0;
+        }
+        @media only screen and (min-width: 401px) and (max-width: 425px) {
+            .views-field.views-field-field-step .field-content .step::before {
+                height: 250px !important;
+            }
+        }
+        @media only screen and (min-width: 401px) and (max-width: 410px) {
+            .path-frontpage .my-self-help-overview .vedio-play {
+                padding-top: 85px;
+                padding-bottom: 105px;
+            }
+        }
+        @media only screen and (min-width: 411px) and (max-width: 420px) {
+            .path-frontpage .my-self-help-overview .vedio-play {
+                padding-top: 87px;
+                padding-bottom: 107px;
+            }
+        }
+        @media only screen and (min-width: 421px) and (max-width: 430px) {
+            .path-frontpage .my-self-help-overview .vedio-play {
+                padding-top: 90px;
+                padding-bottom: 108px;
+            }
+        }
+        @media only screen and (min-width: 431px) and (max-width: 440px) {
+            .path-frontpage .my-self-help-overview .vedio-play {
+                padding-top: 93px;
+                padding-bottom: 112px;
+            }
+        }
+        @media only screen and (min-width: 441px) and (max-width: 450px) {
+            .path-frontpage .my-self-help-overview .vedio-play {
+                padding-top: 96px;
+                padding-bottom: 115px;
+            }
+        }
+        @media only screen and (min-width: 451px) and (max-width: 460px) {
+            .path-frontpage .my-self-help-overview .vedio-play {
+                padding-top: 99px;
+                padding-bottom: 118px;
+            }
+        }
+        @media only screen and (min-width: 461px) and (max-width: 470px) {
+            .path-frontpage .my-self-help-overview .vedio-play {
+                padding-top: 101px;
+                padding-bottom: 121px;
+            }
+        }
+        @media only screen and (min-width: 471px) and (max-width: 480px) {
+            .path-frontpage .my-self-help-overview .vedio-play {
+                padding-top: 104px;
+                padding-bottom: 124px;
+            }
+        }
+        @media only screen and (min-width: 481px) and (max-width: 490px) {
+            .path-frontpage .my-self-help-overview .vedio-play {
+                padding-top: 107px;
+                padding-bottom: 126px;
+            }
+        }
+        .path-frontpage .my-self-help-overview ul {
+            padding-top: 12px;
+            padding-bottom: 8px;
+        }
+        .path-frontpage .my-self-help-overview ul li {
+            padding-bottom: 14px;
+        }
+        .my-self-help-overview a.btn.btn-primary {
+            margin-bottom: 16px;
+            margin-left: 10px;
+        }
+        /* how my self-help work */
+        .my-self-help-work {
+            background-color: #F4F4F4;
+            padding: 32px 0px 35px 0;
+        }
+        .my-self-help-work h2.block-title {
+            padding-bottom: 25px;
+            text-align: center;
+        }
+        .view-how-my-self-help-works .views-row .views-col {
+            display: flex;
+            justify-content: space-between;
+            width: 100% !important;
+            padding: 8px 0px;
+        }
+        .views-field.views-field-field-step .field-content .step::before {
+            position: absolute;
+            content: "";
+            border: 3px solid #2E4783;
+            height: 236px;
+            top: 28px;
+            left: 15px;
+            width: unset;
+            margin: unset;
+        }
+        .view-how-my-self-help-works .views-col:last-child .step:before {
+            content: unset;
+        }
+        .my-self-help-work .image-text {
+            width: unset;
+            min-height: unset;
+            margin: unset;
+            padding: 34px 30px;
+        }
+        .view-how-my-self-help-works .step {
+            width: 36px;
+            height: 36px;
+            line-height: 10px;
+            font-size: 7px;
+        }
+        .view-how-my-self-help-works .step b {
+            font-size: 12px;
+            line-height: 16px;
+        }
+        .my-self-help-work .image-text a {
+            font-size: 18px;
+            font-weight: bold;
+            display: block;
+            line-height: 25px;
+            padding: 18px 0;
+        }
+        .my-self-help-work .image-text p {
+            font-size: 14px;
+            line-height: 20px;
+            padding-top: unset;
+        }
+        /* coverd issue */
+        .covered-issue {
+            padding: 32px 0 0 0;
+        }
+        .covered-issue a {
+            font-size: 18px !important;
+            line-height: 25px !important;
+        }
+        .covered-issue .view-header {
+            top: 70px;
+            padding: 0 17px;
+        }
+        .covered-issue #quicktabs-covered_issues {
+            display: unset;
+            padding: unset;
+        }
+        .covered-issue .block-views-blocktestimonial-block-1 {
+            position: unset;
+            border-top: unset;
+        }
+        .covered-issue ul.quicktabs-tabs {
+            padding: 74px 17px 32px 17px;
+        }
+        .covered-issue ul.quicktabs-tabs li {
+            white-space: unset;
+        }
+        .covered-issue .quicktabs-tabpage .view-content {
+            padding: 20px 17px;
+            width: unset;
+            margin: auto;
+            height: unset;
+            margin: 0 17px;
+        }
+        .covered-issue .block-views-blocktestimonial-block-1 {
+            width: unset;
+            height: unset;
+            margin: 80px 10px 14px 17px;
+            background: #F4F4F4;
+        }
+        .covered-issue #quicktabs-container-covered_issues {
+            width: unset;
+            height: unset;
+        }
+        .covered-issue .view-testimonial .views-slideshow-controls-bottom.clearfix {
+            position: absolute;
+            top: 79%;
+            right: 54px;
+        }
+        /* .covered-issue .view-testimonial .views-slideshow-controls-bottom.clearfix::before {
+            content: "";
+            background: url(../images/previous.png) no-repeat;
+            width: 10px;
+            height: 21px;
+            position: absolute;
+            right: 75px;
+            top: 2px;
+        }
+        .covered-issue .view-testimonial .views-slideshow-controls-bottom.clearfix::after {
+            content: "";
+            background: url(../images/next.png) no-repeat;
+            width: 10px;
+            height: 21px;
+            position: absolute;
+            left: 100px;
+            top: 2px;
+        } */
+        /* .covered-issue .view-testimonial #views_slideshow_controls_text_previous_testimonial-block_1 {
+            position: unset;
+            display: none;
+        } */
+        .covered-issue .view-testimonial .views_slideshow_controls_text_previous a::before {
+            top: 0;
+            right: -12px;
+        }
+        .covered-issue .view-testimonial .views_slideshow_controls_text_next a::after {
+            left: 24px;
+            top: -16px;
+        }
+        /* .covered-issue .view-testimonial .views_slideshow_controls_text_previous a {
+            position: unset;
+        } */
+        .covered-issue .view-testimonial .views_slideshow_controls_text_next,
+        .covered-issue .view-testimonial .views_slideshow_controls_text_previous a {
+            position: unset;
+            /* display: none; */
+        }
+        .covered-issue .view-testimonial .views_slideshow_controls_text_previous a,
+        .covered-issue .view-testimonial .views_slideshow_controls_text_next a {
+            font-size: 0px !important;
+        }
+        .covered-issue .view-covered-issues .cta {
+            margin-left: -8px;
+        }
+        .covered-issue .description {
+            min-height: 140px;
+        }
+        .covered-issue .view-testimonial .views-field-field-short-description p {
+            padding: 35px 0px 0 0;
+        }
+        .covered-issue ul.quicktabs-tabs li a {
+            padding: 24px 14px;
+        }
+        .covered-issue .view-covered-issues .short-description-cta-text p {
+            font-size: 16px;
+            line-height: 22px;
+        }
+        .covered-issue .view-testimonial .views-field-field-short-description p {
+            font-size: 16px;
+            line-height: 22px;
+        }
+        /* back to top area */
+        #block-backtotop {
+            display: block;
+            text-align: center;
+            padding: 26px 0;
+        }
+        #back-to-top p {
+            font-family: Lato;
+            font-size: 20px !important;
+            line-height: 33px !important;
+            padding-top: 8px;
+        }
+        /* footer area */
+        .footer-top-area {
+            padding: 30px 0 36px 0 !important;
+        }
+        .footer-top-right a {
+            font-size: 16px !important;
+            line-height: 22px;
+        }
+        .footer-bottom-right {
+            padding-top: 24px;
+        }
+        .footer-top-area h2 {
+            font-size: 16px !important;
+            line-height: 22px !important;
+        }
+        .footer-top-left section#block-footerlogo {
+            width: 216px;
+        }
+        .footer-top-right {
+            padding-left: 24px !important;
+        }
+        section.footer-bottom-area .row {
+            display: unset !important;
+        }
+        section.footer-bottom-area a {
+            font-size: 16px !important;
+            line-height: 19px !important;
+        }
+        section.footer-bottom-area p {
+            font-size: 16px !important;
+            line-height: 19px !important;
+        }
+        section.footer-bottom-area {
+            padding: 11px 0 !important;
+        }
+        ul.menu.menu--footer li a {
+            text-align: unset !important;
+            font-weight: bold;
+        }
+        ul.footer-social-link {
+            text-align: center;
+        }
+        /* terms of service area */
+        #block-textresize {
+            display: none;
+            top: 116px;
+            right: 20px !important;
+        }
+        .page-node-17 .page-header {
+            padding-bottom: 18px;
+        }
+        .page-node-17 .terms-service-area {
+            width: unset;
+            margin-top: 20px;
+            margin-bottom: 32px;
+        }
+        .terms-service-area .contact-details {
+            margin: unset;
+            padding: 0px 0 0 20px;
+        }
+        .page-node-17 .terms-service-area h2:first-child {
+            padding: 14px;
+        }
+        .page-node-17 .terms-service-area .terms-service {
+            padding: 14px 14px 81px 14px;
+        }
+        .terms-service-area .terms-service h2 {
+            padding-top: 0px;
+        }
+        /* glossary area */
+        .view-glossary .view-content {
+            width: unset;
+            padding-bottom: 26px;
+        }
+        .path-glossary #back-to-top {
+            padding: unset;
+        }
+        .view-glossary .view-header ul {
+            padding: 0px 0 18px 0;
+        }
+        .view-glossary .view-header ul li {
+            font-size: 14px;
+            line-height: 26px;
+            padding-right: 18px;
+        }
+        .view-glossary .views-row .views-field.views-field-title {
+            padding: 14px;
+        }
+        .view-glossary .views-row .views-field.views-field-body {
+            padding: 14px;
+        }
+        /* Disclaimer and Terms of Service */
+        .terms-service-details {
+            padding: 28px 0 0 0;
+        }
+        .left--sidebar--area.col-sm-4 {
+            width: 100%;
+            margin-right: unset;
+        }
+        .right--content--area.col-sm-8 {
+            width: 100%;
+            margin-top: 28px;
+            margin-bottom: 0px;
+            margin-left: 0px;
+        }
+        .header-wrapper {
+            padding: 14px;
+        }
+        .header-wrapper .title-text {
+            padding-left: 14px;
+        }
+        .header-wrapper .title-text h3,
+        .header-wrapper .title-text {
+            font-size: 18px;
+            line-height: 25px;
+        }
+        .body-text {
+            padding: 0 23px;
+        }
+        .body-text p {
+            padding-left: 3px;
+        }
+        .checkbox label {
+            padding-left: 68px;
+        }
+        .terms-service-agreement-text {
+            padding-left: 28px;
+        }
+        .prev-next--button {
+            float: none;
+            padding: 45px 0 88px 0;
+        }
+        .prev-next--button .btn,
+        .top--prev-next--button .btn {
+            min-height: 40px;
+            padding: 0;
+        }
+        .btn-back {
+            min-width: 150px !important;
+            float: left !important;
+        }
+        .btn-back a {
+            font-weight: bold;
+        }
+        .btn-next {
+            min-width: 150px !important;
+            float: right;
+        }
+        .btn-next a {
+            font-weight: bold;
+        }
+        .prev-next--button .btn-primary,
+        .prev-next--button .btn-primary:active:focus,
+        .top--prev-next--button .btn-primary:active:focus,
+        .top--prev-next--button .btn-primary {
+            background: #E7E247 !important;
+            color: #000000 !important;
+            border: #E7E247 !important;
+        }
+        /* The VSA helps with issues with licensed dealers, not private sellers. */
+        /* .page-node-type-create-issue .right--content--area,
+        .page-node-type-create-issue .left--sidebar--area {
+            margin-top: 28px;
+            margin-bottom: 28px;
+        } */
+        .top--prev-next--button {
+            padding-top: 42px;
+            display: flex;
+            justify-content: space-between;
+        }
+        .option-header-wrapper .icon-image img {
+            max-width: unset;
+        }
+        .issue-form-wrapper {
+            font-size: 16px;
+            line-height: 20px;
+        }
+        .description-text {
+            margin-top: 0px;
+        }
+        /* .description-text::before {
+            top: 28%;
+        } */
+        .description-text ul li a {
+            font-size: 16px !important;
+        }
+        .my--self--help--page {
+            padding: 28px 0 0 0;
+        }
+        .right--content--area .content {
+            padding: 22px 22px 0 22px;
+        }
+        .right--content--area blockquote {
+            margin: 20px 0 20px 22px;
+            padding: 10px 0 10px 22px;
+            font-size: 16px;
+        }
+        .right--content--area .content ul {
+            padding-left: 38px;
+        }
+        .top--prev-next--button {
+            padding-top: 42px;
+            display: inline-block;
+            flex-direction: unset;
+        }
+        .top--prev-next--button .page-header {
+            width: 100%;
+            text-align: left;
+            padding-top: 24px;
+            font-size: 28px !important;
+        }
+        /* user login page */
+        .path-user #maindiv {
+            padding: 20px;
+        }
+        /* ///////////////////////////////////////////// */
+        /* left-sidebar-area */
+        .email-button a {
+            font-size: 14px !important;
+        }
+        .body-box {
+            padding: 23px 23px;
+        }
+        .body-box ul {
+            padding-left: 38px;
+        }
+        .question-wrapper input[type="radio"] {
+            width: 11px;
+            height: 11px;
+        }
+        .question-wrapper .field--item.selected input[type="radio"],
+        .question-answer-box .field--item:hover input[type="radio"] {
+            outline-offset: -2px;
+        }
+        .question-answer-box {
+            padding-top: 12px;
+        }
+        .answer-show-hide-next-button {
+            width: 93%;
+        }
+        @media only screen and (min-width: 420px) and (max-width: 480px) {
+            .answer-show-hide-next-button {
+                width: 94%;
+            }
+        }
+        @media only screen and (min-width: 481px) and (max-width: 600px) {
+            .answer-show-hide-next-button {
+                width: 95%;
+            }
+        }
+        @media only screen and (min-width:601px) and (max-width: 700px) {
+            .answer-show-hide-next-button {
+                width: 96%;
+            }
+        }
+        @media only screen and (min-width: 700px) and (max-width: 767px) {
+            .answer-show-hide-next-button {
+                width: 96%;
+            }
+        }
+        .question-answer-box .field--item {
+            padding-left: 10px;
+            box-shadow: 0 3px 6px rgb(0 0 0 / 10%);
+        }
+        .question-box {
+            padding: unset;
+        }
+        .question-box {
+            font-size: 18px;
+            line-height: 40px;
+        }
+        .answer-form-wrapper .prev-next--button,
+        .page-node-36 .issue-form-wrapper .prev-next--button {
+            position: absolute;
+            bottom: -40px !important;
+            right: 0 !important;
+        }
+        /* create issues */
+        .option-header-wrapper .title-text {
+            padding-left: 12px;
+        }
+        .issue-form-wrapper .short-text {
+            padding-left: 0px;
+        }
+        .issue-option-show-hide-next-button {
+            padding: 14px;
+        }
+        .issue-form-wrapper {
+            padding-left: 10px;
+        }
+        .estimated-text {
+            padding-top: 12px;
+        }
+        .option-header-wrapper {
+            align-items: unset;
+        }
+        #myselfhelp-email-template {
+            padding: 10px;
+        }
+        .page-node-type-create-issue .right--content--area,
+        .page-node-type-create-issue .left--sidebar--area {
+            margin-bottom: unset;
+        }
+        .my--self--help--page h2.page-header,
+        .terms-service-details h2.page-header {
+            margin-bottom: 18px;
+            font-size: 28px !important;
+        }
+        .issue-option-box .option-wrapper .title h1,
+        .question-box .question-wrapper .title h1 {
+            font-size: 18px !important;
+            line-height: 25px !important;
+        }
+        .ui-widget.ui-widget-content {
+            left: -12px !important;
+        }
+        .ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front {
+            left: -12px !important;
+            top: 2% !important;
+            width: unset !important;
+            transform: translate(0, 100px);
+        }
+        .like-dislike-box h2.page-header {
+            font-size: 18px !important;
+            line-height: 40px;
+        }
+    }

@@ -1,0 +1,37 @@
+<?php
+
+/**
+ * @file
+ * Handle My self help integration.
+ */
+
+use Drupal\node\Entity\Node;
+
+/**
+ * Implements hook_form_alter().
+ */
+function myself_help_form_alter(&$form, $form_state, $form_id) {
+
+  if ($form_id == 'my_self_help_form') {
+    $form['submit']['#attributes']['class'] = array('class' => 'disabled');
+
+  }
+
+}
+
+/**
+ * Implements hook_preprocess_HOOK() for node.
+ */
+function myself_help_preprocess_node(&$variables)
+{
+  // $variables['node_title'] = $variables['node']->getTitle();
+  // $node = \Drupal::routeMatch()->getParameter('node');
+  // if ($node instanceof \Drupal\node\NodeInterface) {
+  //   $nid = $node->get('field_select_supporting')->getValue()[0]['target_id'];
+  //   $node_obj = Node::load($nid);
+  //   $next_button_url = $node_obj->get('field_next_button_url_text')->value;
+  //   \Drupal::logger('node_load')->notice('<pre><code>' . print_r($next_button_url, TRUE) . '</code></pre>' );
+  // }
+
+}
+

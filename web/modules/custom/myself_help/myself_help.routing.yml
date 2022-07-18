@@ -1,0 +1,31 @@
+myself_help.termsofServicesettings:
+  path: '/admin/config/terms-of-service/settings'
+  defaults: 
+    _form: '\Drupal\myself_help\Form\mySelfHelpConfigForm'
+    _tile: 'Terms of Service Configuration'
+  requirements:
+    _permission: 'administer site configuration access content'
+
+myself_help.admin_terms_of_service_form:
+  path: '/admin/config/terms-of-service'
+  defaults:
+    _controller: '\Drupal\system\Controller\SystemController::systemAdminMenuBlockPage'
+    _title: 'Terms of Service Settings'
+  requirements:
+    _permission: 'administer my self help'
+
+myself_help.mySelfHelpForm:
+  path: '/my-self-help'
+  defaults: 
+    _form: '\Drupal\myself_help\Form\mySelfHelpForm'
+    _tile: 'My self Help'
+  requirements:
+    _permission: 'access content'
+
+myself_help.MySelfHelpEmail:
+  path: '/email-template'
+  defaults: 
+    _form: '\Drupal\myself_help\Form\MySelfHelpEmail'
+    _tile: 'Email Template'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,15 @@
+framework:
+  css:
+    theme:
+      css/style.css: {}
+      css/themes.css: {}
+      css/ipad.css: {}
+      css/mobile.css: {}
+      css/header.css: {}
+      css/footer.css: {}
+  js:
+    js/simple.js: {}
+    https://www.google.com/recaptcha/api.js: { type: external }
+  dependencies: 
+    - core/jquery
+    - core/drupal.dialog.ajax

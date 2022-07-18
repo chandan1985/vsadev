@@ -1,0 +1,22 @@
+{#
+/**
+ * @file
+ * Theme override to display a single component.
+ *
+ * header area template
+ */
+#}
+
+<header>
+  {% if page.header_top %}
+    <section class="header-top container-fluid">
+      <div class="container">{{ page.header_top }}</div>
+    </section>
+  {% endif %}
+
+  <div class="header container-fluid">
+    {% if page.header %}
+        <div class="container">{{ page.header }}</div>
+    {% endif %}
+  </div>
+</header>

@@ -1,0 +1,219 @@
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+    /* how my self-help */
+}
+
+@media only screen and (min-width: 980px) and (max-width: 1279px) {
+    /* how my self-help */
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    /* how my self-help */
+    .view-how-my-self-help-works .step::before {
+        width: 258px !important;
+    }
+    .my-self-help-work .image-text {
+        min-height: 272px !important;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1279px) {
+    /* how my self-help */
+    .view-how-my-self-help-works .step::before {
+        width: 324px !important;
+    }
+    .my-self-help-work .image-text {
+        min-height: 272px !important;
+    }
+    /* my self-help form */
+    .right--content--area.col-sm-8 {
+        width: 66.5%;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1279px) {
+    /* how my-self-help */
+    @media only screen and (min-width: 768px) and (max-width: 991px) {
+        .path-frontpage .my-self-help-overview .vedio-play {
+            padding-top: 62px;
+            padding-bottom: 80px;
+        }
+    }
+    @media only screen and (min-width: 992px) and (max-width: 1199px) {
+        .path-frontpage .my-self-help-overview .vedio-play {
+            padding-top: 88px;
+            padding-bottom: 108px;
+        }
+        /* my self-help-form */
+        .right--content--area.col-sm-8 {
+            width: 66%;
+        }
+    }
+    /* how my self-help work */
+    .view-how-my-self-help-works .step::before {
+        width: 250px;
+    }
+    .view-how-my-self-help-works .views-row .views-col {
+        width: 31% !important;
+        margin-right: 20px;
+    }
+    .view-how-my-self-help-works .views-row .views-col:last-child {
+        margin-right: 0;
+    }
+    .my-self-help-work .image-text {
+        margin: unset;
+        min-height: 356px;
+        padding: 40px 30px;
+    }
+    /* covered issue */
+    .covered-issue ul.quicktabs-tabs li {
+        white-space: unset;
+    }
+    .covered-issue ul.quicktabs-tabs #quicktabs-tab-covered_issues-0 a {
+        background-position: left;
+        padding: 24px 0 24px 52px;
+    }
+    .covered-issue ul.quicktabs-tabs #quicktabs-tab-covered_issues-1 a {
+        background-position: left;
+        padding: 24px 0 24px 52px;
+    }
+    .covered-issue ul.quicktabs-tabs #quicktabs-tab-covered_issues-2 a {
+        background-position: left;
+        padding: 24px 0 24px 52px;
+    }
+    .covered-issue ul.quicktabs-tabs #quicktabs-tab-covered_issues-3 a {
+        background-position: left;
+        padding: 24px 0 24px 52px;
+    }
+    .covered-issue ul.quicktabs-tabs #quicktabs-tab-covered_issues-4 a {
+        background-position: left;
+        padding: 24px 0 24px 52px;
+    }
+    .covered-issue ul.quicktabs-tabs #quicktabs-tab-covered_issues-5 a {
+        background-position: left;
+        padding: 24px 0 24px 52px;
+    }
+    .covered-issue ul.quicktabs-tabs #quicktabs-tab-covered_issues-6 a {
+        background-position: left;
+        padding: 24px 0 24px 52px;
+    }
+    .covered-issue ul.quicktabs-tabs #quicktabs-tab-covered_issues-7 a {
+        background-position: left;
+        padding: 24px 0 24px 52px;
+    }
+    .covered-issue ul.quicktabs-tabs #quicktabs-tab-covered_issues-8 a {
+        background-position: left;
+        padding: 24px 0 24px 52px;
+    }
+    /* right side of covered issues  */
+    .covered-issue .quicktabs-tabpage .view-content {
+        padding: 24px 24px;
+    }
+    .covered-issue #quicktabs-container-covered_issues {
+        width: unset;
+        height: unset;
+        margin-left: 16px;
+    }
+    /* testimonial */
+    .covered-issue .block-views-blocktestimonial-block-1 {
+        width: 58%;
+    }
+    /* footer area */
+    .footer-top-right {
+        padding-left: 0px !important;
+    }
+    .footer-top-right p:first-child {
+        padding-right: 0px !important;
+    }
+    /* terms and service area */
+    .page-node-17 .terms-service-area {
+        width: unset;
+    }
+    /* glossary-area */
+    .view-glossary .view-content {
+        width: unset;
+    }
+    /* my-self-help-form */
+    .path-my-self-help #block-textresize {
+        right: 0;
+    }
+    .left--sidebar--area.col-sm-4 {
+        width: 31%;
+        /* margin-right: 22px; */
+    }
+    .left--sidebar--area .page-header {
+        font-size: 32px;
+    }
+    .right--content--area.col-sm-8 {
+        margin-left: 28px;
+    }
+    .left--sidebar--area {
+        padding: 20px;
+    }
+    .header-wrapper {
+        padding: 20px;
+    }
+    .header-wrapper .title-text {
+        padding-left: 20px;
+    }
+    .body-text {
+        padding: 25px 25px 0px 25px;
+    }
+    .right--content--area .checkbox {
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+    .checkbox label {
+        padding-left: 66px;
+        padding-right: 20px;
+    }
+    .terms-service-agreement-text {
+        padding-left: 24px;
+        padding-right: 20px;
+    }
+    .prev-next--button {
+        /* margin-right: 12px; */
+    }
+    /* The VSA helps with issues with licensed dealers, not private sellers. */
+    .right--content--area blockquote {
+        margin: 20px 0 20px 26px;
+    }
+    .my--self--help--inner-page ul {
+        margin-left: 26px;
+    }
+    /* ///////////What is your Dealer licence status?////////////// */
+    .left--sidebar--area h1 {
+        font-size: 32px;
+    }
+    .more-information .body-box {
+        padding: 18px 20px 28px 20px;
+    }
+    .question-answer-box .field--item {
+        padding-left: 18px;
+    }
+    .answer-show-hide-next-button {
+        width: 92%;
+    }
+    @media only screen and (min-width: 992px) and (max-width: 1199px) {
+        .answer-show-hide-next-button {
+            width: 94%;
+        }
+    }
+    @media only screen and (min-width: 1199px) and (max-width: 1279px) {
+        .answer-show-hide-next-button {
+            width: 95%;
+        }
+    }
+    .left--sidebar--area h1 {
+        font-size: 32px;
+        line-height: 45px;
+    }
+    .option-header-wrapper .icon-image img {
+        max-width: unset;
+    }
+    @media only screen and (min-width: 768px) and (max-width: 991px) {
+        /* like dislike */
+        .description-text::before {
+            top: 41%;
+        }
+    }
+}

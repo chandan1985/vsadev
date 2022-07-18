@@ -1,0 +1,11 @@
+system.admin_terms_of_service_form:
+  title: 'My self help global'
+  parent: system.admin_config
+  route_name: myself_help.admin_terms_of_service_form
+
+myself_help.termsofServicesettings:
+  title: 'Terms of service global setting'
+  description: 'VSA Terms of service configuration setting.'
+  parent: system.admin_terms_of_service_form
+  route_name: myself_help.termsofServicesettings
+  weight: -10

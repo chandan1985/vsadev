@@ -1,0 +1,5 @@
+myself_help:
+  js:
+    js/myself_help.js: {}
+  dependencies:
+    - core/jquery

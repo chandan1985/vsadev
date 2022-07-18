@@ -1,0 +1,23 @@
+type: theme
+base theme: bootstrap
+core_version_requirement: ^8 || ^9
+
+name: 'VSA Theme'
+description: 'A Drupal Bootstrap 3 based sub-theme.'
+package: 'Bootstrap'
+
+regions:
+  header_top: 'Header Top'
+  header: 'Header'
+  breadcrumb: 'Breadcrumb'  
+  content: 'Content Area'
+  my_self_help_work: 'My Self Help Work'
+  covered_issue: 'Covered Issue'
+  back_to_top: 'Back To Top'
+  footer_top_left: 'Footer Top Left'
+  footer_top_right: 'Footer Top Right'
+  footer_bottom_left: 'Footer Bottom Left'
+  footer_bottom_right: 'Footer Bottom Right'
+
+libraries:
+    - vsa/framework

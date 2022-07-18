@@ -1,0 +1,5 @@
+name: "VSA My Self Help"
+description: "VSA My Self Help module"
+type: module
+package: custom
+core_version_requirement: ^8.8.0 || ^9
